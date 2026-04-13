@@ -32,8 +32,12 @@ Especializado en el desarrollo de **Landing Pages** de alto impacto y aplicacion
 ## 📊 Estadísticas de Desarrollo
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MglxcRTD&show_icons=true&theme=tokyonight&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MglxcRTD&layout=compact&theme=tokyonight" height="180" />
+<a href="https://github.com/MglxcRTD">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MglxcRTD&show_icons=true&theme=tokyonight" alt="Stats de MglxcRTD" height="170" />
+</a>
+<a href="https://github.com/MglxcRTD">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MglxcRTD&layout=compact&theme=tokyonight" alt="Lenguajes de MglxcRTD" height="170" />
+</a>
 </p>
 
 ### 📈 Actividad Reciente
