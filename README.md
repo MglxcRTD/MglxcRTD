@@ -22,9 +22,9 @@ Especializado en el desarrollo de **Landing Pages** de alto impacto y aplicacion
 
 ---
 
-## 🏆 GitHub Trophies
+## ⚡ GitHub Streak
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MglxcRTD&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MglxcRTD&theme=tokyonight&hide_border=true" alt="MglxcRTD Streak" />
 </p>
 
 ---
