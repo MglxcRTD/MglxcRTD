@@ -29,6 +29,12 @@ He desarrollado diversas **Landing Pages** y participado en proyectos **Fullstac
 ## Estadísticas de GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MglxcRTD&show_icons=true&theme=tokyonight&cache_seconds=1800" height="150" alt="Estadísticas de MglxcRTD" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MglxcRTD&layout=compact&theme=tokyonight&cache_seconds=1800" height="150" alt="Lenguajes más usados" />
+<a href="https://github.com/MglxcRTD">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MglxcRTD&show_icons=true&theme=tokyonight" alt="Stats de MglxcRTD" height="170" />
+</a>
+<a href="https://github.com/MglxcRTD">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MglxcRTD&layout=compact&theme=tokyonight" alt="Lenguajes de MglxcRTD" height="170" />
+</a>
 </p>
+
+> 💡 *Si las imágenes de arriba siguen sin cargar, es posible que necesites entrar [aquí una vez](https://github-readme-stats-sigma-five.vercel.app/api?username=MglxcRTD&show_icons=true&theme=tokyonight) para "despertar" al servidor.*
