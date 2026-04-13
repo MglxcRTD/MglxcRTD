@@ -1,4 +1,4 @@
-# Hola, soy MglxcRTD 👋
+# Hola, soy MglxcRTD 
 
 He desarrollado diversas **Landing Pages** y participado en proyectos **Fullstack**, combinando robustez en el backend con interfaces modernas.
 
