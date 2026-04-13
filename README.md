@@ -37,4 +37,4 @@ He desarrollado diversas **Landing Pages** y participado en proyectos **Fullstac
 </a>
 </p>
 
-> 💡 *Si las imágenes de arriba siguen sin cargar, es posible que necesites entrar [aquí una vez](https://github-readme-stats-sigma-five.vercel.app/api?username=MglxcRTD&show_icons=true&theme=tokyonight) para "despertar" al servidor.*
+
