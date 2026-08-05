@@ -2,7 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Miguel%20|%20FullStack%20&fontSize=70" />
 </p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFB800?style=for-the-badge&logo=reactrouter&logoColor=black)](https://miguerlarboledas.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-arboledas-fern%C3%A1ndez-914258239)
+<p align="center">
+  <a href="https://miguerlarboledas.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FFB800?style=for-the-badge&logo=astro&logoColor=black" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/miguel-arboledas-fern%C3%A1ndez-914258239">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
