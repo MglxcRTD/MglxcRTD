@@ -1,8 +1,10 @@
-# 💫 Hola, soy MglxcRTD | FullStack Developer
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Miguel%20|%20FullStack%20&fontSize=70" />
 </p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFB800?style=for-the-badge&logo=reactrouter&logoColor=black)](https://miguerlarboledas.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-arboledas-fern%C3%A1ndez-914258239)
+
+---
 
 ### 🚀 Sobre mí
 Especializado en el desarrollo de **Landing Pages** de alto impacto y aplicaciones **Fullstack**. Me apasiona crear arquitecturas robustas en el Backend sin descuidar la experiencia de usuario en el Frontend.
